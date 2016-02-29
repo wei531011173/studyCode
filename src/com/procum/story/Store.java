@@ -3,6 +3,11 @@ package com.procum.story;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 商店类,用于生产商品与消耗商品
+ * @author wy
+ *
+ */
 public class Store {
 	
 	public static final int MAX_SIZE = 10;
