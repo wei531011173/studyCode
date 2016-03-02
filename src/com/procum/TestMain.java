@@ -1,4 +1,4 @@
-package com.procum.main;
+package com.procum;
 
 import com.procum.consume.Consume;
 import com.procum.produce.Producer;

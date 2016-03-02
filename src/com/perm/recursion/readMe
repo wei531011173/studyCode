@@ -1,0 +1,5 @@
+简单地说：就是第一个数分别以后面的数进行交换
+
+如：E = （a , b , c），则 prem（E）= a.perm（b,c）+ b.perm（a,c）+ c.perm（a,b）
+
+然后a.perm（b,c）= ab.perm（c）+ ac.perm（b）= abc + acb.依次递归进行
